@@ -5,7 +5,8 @@ date: "December 10, 2018"
 output: html_document
 ---
 
-
+#***File location on Github***
+https://github.com/lavonnian/SMU-MSDS-Homework
 
 # ***1.	Data Munging (30 points): Utilize yob2016.txt for this question. This file is a series of popular children's names born in the year 2016 in the United States.  It consists of three columns with a first name, a gender, and the amount of children given that name.  However, the data is raw and will need cleaning to make it tidy and usable.***
 
